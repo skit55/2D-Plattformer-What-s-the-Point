@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "attack/PF_attack1",
+	"frame": {"x":0,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "attack/PF_attack2",
+	"frame": {"x":130,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "attack/PF_attack3",
+	"frame": {"x":260,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_1",
+	"frame": {"x":390,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_2",
+	"frame": {"x":520,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_3",
+	"frame": {"x":650,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_4",
+	"frame": {"x":780,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_5",
+	"frame": {"x":910,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_6",
+	"frame": {"x":1040,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "idle/PF_7",
+	"frame": {"x":1170,"y":0,"w":130,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":80},
+	"sourceSize": {"w":130,"h":80},
+	"pivot": {"x":0.5,"y":1.0}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1300,"h":80},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:117ce02ee09646d1a08c36106300374c:93992968cd7e1e3bc325571cf574cc64:d116c49472431f2a66519fd01236dbef$"
+}
+}

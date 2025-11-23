@@ -1,0 +1,246 @@
+{"frames": [
+
+{
+	"filename": "frog & poison getrennt/frog_att1",
+	"frame": {"x":0,"y":0,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att2",
+	"frame": {"x":0,"y":70,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att3",
+	"frame": {"x":0,"y":140,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att4",
+	"frame": {"x":0,"y":210,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att5",
+	"frame": {"x":0,"y":280,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att6",
+	"frame": {"x":0,"y":350,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/frog_att7",
+	"frame": {"x":0,"y":420,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/poison_1",
+	"frame": {"x":0,"y":490,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/poison_2",
+	"frame": {"x":0,"y":560,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/poison_3",
+	"frame": {"x":0,"y":630,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/poison_5",
+	"frame": {"x":0,"y":700,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog & poison getrennt/posion_4",
+	"frame": {"x":0,"y":770,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack1",
+	"frame": {"x":0,"y":840,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack2",
+	"frame": {"x":0,"y":910,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack3",
+	"frame": {"x":0,"y":980,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack4",
+	"frame": {"x":0,"y":1050,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack5",
+	"frame": {"x":0,"y":1120,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack6",
+	"frame": {"x":0,"y":1190,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_attack/frog_attack7",
+	"frame": {"x":0,"y":1260,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_1",
+	"frame": {"x":0,"y":1330,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_2",
+	"frame": {"x":0,"y":1400,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_3",
+	"frame": {"x":0,"y":1470,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_4",
+	"frame": {"x":0,"y":1540,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_5",
+	"frame": {"x":0,"y":1610,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_6",
+	"frame": {"x":0,"y":1680,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "frog_idle_walk/frog_death",
+	"frame": {"x":0,"y":1750,"w":118,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":70},
+	"sourceSize": {"w":118,"h":70},
+	"pivot": {"x":0.5,"y":1.0}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture-5.png",
+	"format": "RGBA8888",
+	"size": {"w":118,"h":1820},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:58f9837e60af6db2ab378245a5472ef3:4b512acc196fbc5128c88cd3f0616b96:7979559fd03a4fec7ec1ab47cf40cfce$"
+}
+}

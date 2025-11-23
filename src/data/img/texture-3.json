@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "Spinne_death/S_death1",
+	"frame": {"x":0,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_death/S_death2",
+	"frame": {"x":79,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_death/S_death3",
+	"frame": {"x":158,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_death/S_death4",
+	"frame": {"x":237,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_down/S_down1",
+	"frame": {"x":316,"y":0,"w":79,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+	"sourceSize": {"w":79,"h":61},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_down/S_down2",
+	"frame": {"x":395,"y":0,"w":79,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+	"sourceSize": {"w":79,"h":61},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_walk/S_walk1",
+	"frame": {"x":474,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_walk/S_walk2",
+	"frame": {"x":553,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_walk/S_walk3",
+	"frame": {"x":632,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+},
+{
+	"filename": "Spinne_walk/S_walk4",
+	"frame": {"x":711,"y":0,"w":79,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":50},
+	"sourceSize": {"w":79,"h":50},
+	"pivot": {"x":0.5,"y":1.0}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture-3.png",
+	"format": "RGBA8888",
+	"size": {"w":790,"h":61},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7afa8d3138ff45cf45c05e5db09732c8:1f8c837086114a72b1586db1018ef430:0b07a38b9e311d5c0095a2b296d1f342$"
+}
+}

@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/img\/TileLeaf.png",
+ "imageheight":280,
+ "imagewidth":280,
+ "margin":0,
+ "name":"LeafTile",
+ "spacing":0,
+ "tilecount":64,
+ "tiledversion":"1.10.1",
+ "tileheight":35,
+ "tilewidth":35,
+ "type":"tileset",
+ "version":"1.10"
+}

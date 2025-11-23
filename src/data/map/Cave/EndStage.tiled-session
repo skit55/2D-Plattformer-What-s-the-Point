@@ -1,0 +1,303 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/orkun/AppData/Local/Temp/Rar$DIa1384.49999/CaveWeltStage1.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "C:/Users/orkun/Desktop/Berge"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa1384.49999/CaveWeltStage1.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1402.2488897288104,
+                "y": 526.5047718038363
+            }
+        },
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa1384.49999/TileLeaf.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.20373/CaveWeltStage1.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1398.2802607956157,
+                "y": 149.4850231503354
+            }
+        },
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.20373/TileLeaf.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.22325/CaveWeltStage2.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1399.6031371066806,
+                "y": 522.5361428706417
+            }
+        },
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.22325/TileLeaf.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/Desktop/Berge/Berg 1.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1142,
+                "y": 547.9999999999999
+            }
+        },
+        "C:/Users/orkun/Desktop/Berge/Berg 2.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1746,
+                "y": 505.33333333333326
+            }
+        },
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage1.tmx": {
+            "expandedObjectLayers": [
+                3,
+                6,
+                4
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1399,
+                "y": 525
+            }
+        },
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1399,
+                "y": 525
+            }
+        },
+        "C:/Users/orkun/Desktop/Berge/Leafs.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/Desktop/Berge/TileLeaf.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/orkun/Desktop/Blatt/BlattWeltStage1.tmx": {
+            "expandedObjectLayers": [
+                8,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1399.3333333333333,
+                "y": 523.3333333333334
+            }
+        },
+        "C:/Users/orkun/Desktop/Blatt/BlattWeltStage2.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1535,
+                "y": 590
+            }
+        },
+        "C:/Users/orkun/Desktop/Blatt/BlattWeltStage3.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1057.3333333333333,
+                "y": 872.6666666666666
+            }
+        },
+        "C:/Users/orkun/Desktop/Blatt/LeafTile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/Desktop/Blatt/Plant.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/orkun/Desktop/CaveWeltStage2..tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1402.2488897288104,
+                "y": 526.5047718038364
+            }
+        },
+        "Cave1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 1727.333333333333,
+                "y": 453.33333333333326
+            }
+        },
+        "Cave2.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3,
+                9,
+                6,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 759.3333333333334,
+                "y": 573.3333333333333
+            }
+        },
+        "Cave2.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "CaveWeltStage1.tmx": {
+            "scale": 0.40748214285714285,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1293.3082080722204,
+                "y": 687.1466760156011
+            }
+        },
+        "CaveWeltStage2.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.40748214285714285,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1207.4148735702706,
+                "y": 809.8514395898155
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/EndStage/TileLeaf.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BergWeltStage1.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.2894264386282,
+                "y": 904.8473967684022
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BlattWeltStage1.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1399.6031371066808,
+                "y": 526.5047718038364
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BlattWeltStage2.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1582.160068033639,
+                "y": 619.1061135783806
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BlattWeltStage3.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 507.9845034489275,
+                "y": 367.7596144760464
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/CaveWeltStage1.tmx": {
+            "scale": 0.40748214285714285,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1314.1680178798372,
+                "y": 790.2186774179413
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/CaveWeltStage2.tmx": {
+            "scale": 0.3779642857142857,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1441.9351790607582,
+                "y": 801.6630445053389
+            }
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/LeafTile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/Leafs.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/Plant.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/TileLeaf.tsx": {
+            "scaleInDock": 1
+        },
+        "TileLeaf.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/orkun/Desktop",
+    "last.externalTilesetPath": "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map",
+    "last.imagePath": "C:/Users/orkun/Desktop/Berge",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 35,
+    "map.tileWidth": 35,
+    "map.width": 80,
+    "openFiles": [
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage1.tmx",
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage2.tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.20373/CaveWeltStage1.tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.22325/CaveWeltStage2.tmx",
+        "CaveWeltStage1.tmx",
+        "CaveWeltStage2.tmx",
+        "C:/Users/orkun/Desktop/CaveWeltStage2..tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa1384.49999/CaveWeltStage1.tmx"
+    ],
+    "project": "EndStage.tiled-project",
+    "recentFiles": [
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage1.tmx",
+        "C:/Users/orkun/Desktop/Berge/BergWeltStage2.tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.20373/CaveWeltStage1.tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa4928.22325/CaveWeltStage2.tmx",
+        "CaveWeltStage1.tmx",
+        "CaveWeltStage2.tmx",
+        "C:/Users/orkun/Desktop/CaveWeltStage2..tmx",
+        "C:/Users/orkun/AppData/Local/Temp/Rar$DIa1384.49999/CaveWeltStage1.tmx",
+        "TileLeaf.tsx",
+        "C:/Users/orkun/Desktop/Berge/TileLeaf.tsx",
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BlattWeltStage3.tmx",
+        "D:/One Drive/OneDrive/Desktop/Studium/ProMedi2/promedi-sose23-2d-plattformer/src/data/map/BlattWeltStage2.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 35,
+        "width": 35
+    }
+}
